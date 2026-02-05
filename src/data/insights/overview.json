@@ -1,0 +1,6 @@
+{
+  "monthlyActiveUsers": {"value": 47, "trend": 12},
+  "avgSessionDuration": {"value": "12m 34s", "trend": 8},
+  "avgPagesPerSession": {"value": 4.2, "trend": 0.3},
+  "featureDiscoveryRate": {"value": 62, "trend": 5}
+}

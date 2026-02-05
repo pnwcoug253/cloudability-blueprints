@@ -1,0 +1,50 @@
+[
+  {
+    "id": "bp-admin-default",
+    "name": "Platform Overview",
+    "persona": "admin",
+    "description": "Admin start page with setup progress, user adoption, and credential health",
+    "licenseTier": "essentials",
+    "isSystemDefault": true,
+    "widgetCount": 8,
+    "assignedUsers": 2,
+    "createdAt": "2026-01-15",
+    "modifiedAt": "2026-02-01"
+  },
+  {
+    "id": "bp-finops-default",
+    "name": "FinOps Command Center",
+    "persona": "finops",
+    "description": "Comprehensive view of spend, budgets, optimization, and anomalies",
+    "licenseTier": "standard",
+    "isSystemDefault": true,
+    "widgetCount": 10,
+    "assignedUsers": 18,
+    "createdAt": "2026-01-15",
+    "modifiedAt": "2026-02-03"
+  },
+  {
+    "id": "bp-devops-default",
+    "name": "Engineering Cost View",
+    "persona": "devops",
+    "description": "Team-scoped spend, right-sizing, anomalies, and governance",
+    "licenseTier": "standard",
+    "isSystemDefault": true,
+    "widgetCount": 10,
+    "assignedUsers": 22,
+    "createdAt": "2026-01-15",
+    "modifiedAt": "2026-02-02"
+  },
+  {
+    "id": "bp-finance-default",
+    "name": "Executive Summary",
+    "persona": "finance",
+    "description": "High-level spend, budgets, forecasts, and commitment portfolio",
+    "licenseTier": "essentials",
+    "isSystemDefault": true,
+    "widgetCount": 10,
+    "assignedUsers": 5,
+    "createdAt": "2026-01-15",
+    "modifiedAt": "2026-01-28"
+  }
+]

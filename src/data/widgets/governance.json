@@ -1,0 +1,18 @@
+{
+  "complianceRate": 91,
+  "totalResources": 1240,
+  "compliantResources": 1128,
+  "violations": [
+    {"policy": "Required tags missing", "resourceCount": 52, "severity": "warning"},
+    {"policy": "Non-compliant instance types", "resourceCount": 18, "severity": "critical"},
+    {"policy": "Unapproved regions", "resourceCount": 12, "severity": "warning"},
+    {"policy": "Missing cost center allocation", "resourceCount": 30, "severity": "info"}
+  ],
+  "missingTags": [
+    {"tag": "team", "resourceCount": 12},
+    {"tag": "environment", "resourceCount": 5},
+    {"tag": "cost-center", "resourceCount": 3},
+    {"tag": "application", "resourceCount": 8},
+    {"tag": "owner", "resourceCount": 24}
+  ]
+}

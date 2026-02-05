@@ -1,0 +1,46 @@
+{
+  "objectives": {
+    "finops": [
+      {"id": "reduce-waste", "label": "Reduce cloud waste", "description": "Right-sizing, idle resources, and optimization"},
+      {"id": "optimize-commitments", "label": "Optimize commitment coverage", "description": "RI and Savings Plan management"},
+      {"id": "monitor-anomalies", "label": "Monitor for cost anomalies", "description": "Detect unusual spending patterns"},
+      {"id": "track-budgets", "label": "Track budgets and forecasts", "description": "Stay on top of financial planning"},
+      {"id": "improve-allocation", "label": "Improve cost allocation", "description": "Better tagging and categorization"},
+      {"id": "report-spend", "label": "Report on cloud spend", "description": "Business unit reporting and showback"}
+    ],
+    "devops": [
+      {"id": "team-costs", "label": "Understand my team's cloud costs", "description": "Visibility into team-level spending"},
+      {"id": "right-size", "label": "Right-size my resources", "description": "Optimize instance sizes and types"},
+      {"id": "team-anomalies", "label": "Monitor for anomalies in my scope", "description": "Catch unexpected cost spikes early"},
+      {"id": "team-budget", "label": "Track my team's budget", "description": "Stay within allocated budget"},
+      {"id": "tag-compliance", "label": "Ensure tag compliance", "description": "Meet governance requirements"},
+      {"id": "forecast-infra", "label": "Forecast my infrastructure costs", "description": "Plan for capacity growth"}
+    ],
+    "finance": [
+      {"id": "total-expenditure", "label": "Track total cloud expenditure", "description": "Cash out the door visibility"},
+      {"id": "budget-performance", "label": "Monitor budget performance", "description": "Budget vs. actual tracking"},
+      {"id": "forecast-costs", "label": "Forecast future cloud costs", "description": "Financial planning and projections"},
+      {"id": "dept-spend", "label": "Understand spend by department", "description": "Business unit cost breakdown"},
+      {"id": "commitment-savings", "label": "Review commitment savings", "description": "ROI on reserved capacity"},
+      {"id": "exec-reports", "label": "Generate executive reports", "description": "Board-ready financial summaries"}
+    ],
+    "admin": [
+      {"id": "onboard-users", "label": "Onboard users to Cloudability", "description": "Get my team up and running"},
+      {"id": "monitor-adoption", "label": "Monitor platform adoption", "description": "Track who's using the tool"},
+      {"id": "configure-dashboards", "label": "Configure dashboards for my teams", "description": "Tailor experiences by role"},
+      {"id": "manage-credentials", "label": "Manage cloud credentials", "description": "Keep cloud connections healthy"},
+      {"id": "setup-mappings", "label": "Set up business mappings and views", "description": "Organize data for my org"},
+      {"id": "track-setup", "label": "Track setup completeness", "description": "Ensure full configuration"}
+    ]
+  },
+  "cloudProviders": ["AWS", "Azure", "GCP", "Oracle Cloud", "IBM Cloud", "Other"],
+  "costGroupings": ["By team", "By product", "By business unit", "By cost center", "By environment", "Other"],
+  "orgSizes": ["<$1M/yr", "$1M\u2013$10M/yr", "$10M\u2013$50M/yr", "$50M+/yr"],
+  "maturityLevels": [
+    {"id": "crawl", "label": "Just getting started", "description": "Building foundational FinOps practices"},
+    {"id": "walk", "label": "Building capabilities", "description": "Established processes, growing optimization"},
+    {"id": "run", "label": "Optimizing at scale", "description": "Mature FinOps with automated workflows"}
+  ],
+  "standardDimensions": ["Service / Product", "Account / Subscription", "Region", "Environment", "Resource type"],
+  "customDimensions": ["Cost Center", "Team", "Product Line", "Application", "Department", "Module", "Suite", "Business Unit"]
+}

@@ -1,0 +1,17 @@
+{
+  "totalSpend": { "label": "Total Monthly Spend", "value": 2400000, "trend": {"direction": "up", "percentage": 7, "period": "vs. last month"}, "status": "warning" },
+  "rightSizingSavings": { "label": "Right-Sizing Savings", "value": 340000, "trend": {"direction": "up", "percentage": 12, "period": "127 opportunities"}, "status": "critical" },
+  "commitmentCoverage": { "label": "Commitment Coverage", "value": 72, "format": "percent", "trend": {"direction": "down", "percentage": 3, "period": "vs. target"}, "status": "warning" },
+  "coinScore": { "label": "COIN Score", "value": 68, "format": "score", "maxValue": 100, "trend": {"direction": "up", "percentage": 4, "period": "this quarter"}, "status": "neutral" },
+  "teamSpend": { "label": "My Team's Spend", "value": 142000, "trend": {"direction": "up", "percentage": 3, "period": "vs. last month"}, "status": "positive" },
+  "rightSizingSavingsTeam": { "label": "Right-Sizing Savings", "value": 18500, "trend": {"direction": "up", "percentage": 8, "period": "23 resources"}, "status": "warning" },
+  "activeAnomalies": { "label": "Active Anomalies", "value": 2, "format": "count", "trend": {"direction": "up", "percentage": 1, "period": "new today"}, "status": "critical" },
+  "tagCompliance": { "label": "Tag Compliance", "value": 91, "format": "percent", "trend": {"direction": "up", "percentage": 4, "period": "this month"}, "status": "positive" },
+  "ytdSpend": { "label": "YTD Spend", "value": 4800000, "secondaryLabel": "of $14M budget", "trend": {"direction": "flat", "percentage": 34, "period": "consumed"}, "status": "positive" },
+  "commitmentSavings": { "label": "Commitment Savings", "value": 680000, "trend": {"direction": "up", "percentage": 28, "period": "savings rate"}, "status": "positive" },
+  "spendGrowth": { "label": "Spend Growth Rate", "value": 12, "format": "percentGrowth", "trend": {"direction": "down", "percentage": 3, "period": "vs. last quarter"}, "status": "positive" },
+  "activeUsers": { "label": "Active Users", "value": 47, "secondaryLabel": "of 70 licensed", "trend": {"direction": "up", "percentage": 12, "period": "this month"}, "status": "positive" },
+  "setupCompleteness": { "label": "Setup Completeness", "value": 78, "format": "percent", "trend": {"direction": "up", "percentage": 3, "period": "items remaining"}, "status": "warning" },
+  "blueprintsAssigned": { "label": "Blueprints Assigned", "value": 4, "secondaryLabel": "of 6 roles", "trend": {"direction": "flat", "percentage": 0, "period": ""}, "status": "neutral" },
+  "avgSessionDuration": { "label": "Avg. Session Duration", "value": "12m 34s", "format": "text", "trend": {"direction": "up", "percentage": 8, "period": "vs. last month"}, "status": "positive" }
+}

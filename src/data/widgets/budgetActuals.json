@@ -1,0 +1,12 @@
+{
+  "periods": [
+    {"period": "Sep 2025", "budget": 2200000, "actual": 2100000},
+    {"period": "Oct 2025", "budget": 2200000, "actual": 2150000},
+    {"period": "Nov 2025", "budget": 2200000, "actual": 2280000},
+    {"period": "Dec 2025", "budget": 2300000, "actual": 2310000},
+    {"period": "Jan 2026", "budget": 2300000, "actual": 2380000},
+    {"period": "Feb 2026", "budget": 2300000, "actual": 2400000, "forecast": 2450000}
+  ],
+  "insight": "On track to exceed Q2 budget by $180K",
+  "status": "at-risk"
+}

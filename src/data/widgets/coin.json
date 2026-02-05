@@ -1,0 +1,13 @@
+{
+  "score": 68,
+  "maxScore": 100,
+  "trend": 4,
+  "period": "this quarter",
+  "breakdown": [
+    {"category": "Right-Sizing", "score": 62, "weight": 30},
+    {"category": "Commitment Coverage", "score": 72, "weight": 25},
+    {"category": "Idle Resources", "score": 78, "weight": 20},
+    {"category": "Tag Compliance", "score": 91, "weight": 15},
+    {"category": "Architecture", "score": 45, "weight": 10}
+  ]
+}

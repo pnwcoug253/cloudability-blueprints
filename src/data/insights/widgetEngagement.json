@@ -1,0 +1,19 @@
+{
+  "clickThroughRates": [
+    {"widget": "Right-Sizing Opportunities", "ctr": 78},
+    {"widget": "Anomaly Feed", "ctr": 71},
+    {"widget": "Budget vs. Actuals", "ctr": 65},
+    {"widget": "Spend Trend", "ctr": 58},
+    {"widget": "Commitment Health", "ctr": 52},
+    {"widget": "KPI Tiles", "ctr": 48},
+    {"widget": "Cost Allocation", "ctr": 34},
+    {"widget": "Idle Resources", "ctr": 31}
+  ],
+  "timeOnWidget": {
+    "labels": ["Right-Sizing", "Anomaly Feed", "Budget", "Spend Trend", "Commitments"],
+    "finops": [4.2, 3.8, 3.5, 2.8, 2.5],
+    "devops": [6.1, 2.9, 1.2, 3.1, 0.8],
+    "finance": [0.5, 1.2, 5.8, 4.2, 3.1]
+  },
+  "insight": "Engineers spend 3x longer on right-sizing widgets than finance users. Consider adding more optimization widgets to the DevOps blueprint."
+}

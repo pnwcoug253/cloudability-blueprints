@@ -1,0 +1,20 @@
+{
+  "overallUtilization": 72,
+  "overallCoverage": 68,
+  "totalValue": 8200000,
+  "savingsRate": 28,
+  "commitments": [
+    {"provider": "AWS", "type": "Reserved Instances", "utilization": 78, "coverage": 72, "annualValue": 4200000},
+    {"provider": "AWS", "type": "Savings Plans", "utilization": 65, "coverage": 58, "annualValue": 2100000},
+    {"provider": "Azure", "type": "Reserved Instances", "utilization": 81, "coverage": 75, "annualValue": 1500000},
+    {"provider": "GCP", "type": "CUDs", "utilization": 70, "coverage": 62, "annualValue": 400000}
+  ],
+  "recommendation": "Purchase $45K additional Savings Plan coverage to improve coverage to 75%",
+  "renewingIn90Days": 1200000,
+  "portfolioSummary": {
+    "totalCommitmentValue": 8200000,
+    "currentSavingsRate": 28,
+    "coverage": 72,
+    "renewingSoon": 1200000
+  }
+}

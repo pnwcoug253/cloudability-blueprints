@@ -1,0 +1,9 @@
+{
+  "features": ["Reports", "Right Sizing", "Commitment Mgr", "Anomalies", "Budgets", "Forecasting", "Biz Mappings", "Cost Sharing"],
+  "byPersona": {
+    "finops": [92, 78, 23, 85, 71, 68, 45, 35],
+    "devops": [65, 82, 12, 71, 45, 38, 18, 8],
+    "finance": [88, 15, 42, 35, 92, 85, 22, 12]
+  },
+  "insight": "Only 23% of FinOps users have used Commitment Manager. Consider promoting it on the FinOps start page."
+}

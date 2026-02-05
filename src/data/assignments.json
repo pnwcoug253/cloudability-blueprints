@@ -1,0 +1,9 @@
+[
+  {"id": "asgn-1", "blueprintId": "bp-admin-default", "targetType": "persona", "targetId": "admin", "priority": 1},
+  {"id": "asgn-2", "blueprintId": "bp-finops-default", "targetType": "persona", "targetId": "finops", "priority": 1},
+  {"id": "asgn-3", "blueprintId": "bp-devops-default", "targetType": "persona", "targetId": "devops", "priority": 1},
+  {"id": "asgn-4", "blueprintId": "bp-finance-default", "targetType": "persona", "targetId": "finance", "priority": 1},
+  {"id": "asgn-5", "blueprintId": "bp-finops-default", "targetType": "view", "targetId": "aws-production", "priority": 2},
+  {"id": "asgn-6", "blueprintId": "bp-devops-default", "targetType": "view", "targetId": "azure-dev", "priority": 2},
+  {"id": "asgn-7", "blueprintId": "bp-finance-default", "targetType": "view", "targetId": "finance-reporting", "priority": 2}
+]

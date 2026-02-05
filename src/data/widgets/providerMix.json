@@ -1,0 +1,7 @@
+{
+  "providers": [
+    {"name": "AWS", "spend": 1488000, "percentage": 62, "change": 5.2},
+    {"name": "Azure", "spend": 672000, "percentage": 28, "change": 8.1},
+    {"name": "GCP", "spend": 240000, "percentage": 10, "change": 15.3}
+  ]
+}

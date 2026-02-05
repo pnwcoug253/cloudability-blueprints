@@ -1,0 +1,26 @@
+{
+  "totalSavings": 340000,
+  "opportunityCount": 127,
+  "categories": [
+    {"type": "Right-size", "savings": 202000, "count": 64, "color": "#0f62fe"},
+    {"type": "Terminate", "savings": 95000, "count": 35, "color": "#da1e28"},
+    {"type": "Autoscale", "savings": 28000, "count": 18, "color": "#24a148"},
+    {"type": "Idle", "savings": 15000, "count": 10, "color": "#f1c21b"}
+  ],
+  "topOpportunities": [
+    {"resource": "EC2 instances", "currentSize": "m5.2xlarge", "recommendedSize": "m5.xlarge", "monthlySavings": 180000, "count": 64, "provider": "AWS"},
+    {"resource": "RDS instances", "currentSize": "db.r5.4xlarge", "recommendedSize": "db.r5.2xlarge", "monthlySavings": 95000, "count": 28, "provider": "AWS"},
+    {"resource": "Idle EBS volumes", "currentSize": "500GB gp3", "recommendedSize": "Terminate", "monthlySavings": 65000, "count": 35, "provider": "AWS"}
+  ],
+  "teamData": {
+    "totalSavings": 18500,
+    "opportunityCount": 23,
+    "topOpportunities": [
+      {"resource": "api-gateway-prod", "currentSize": "m5.xlarge", "recommendedSize": "m5.large", "monthlySavings": 4200, "provider": "AWS"},
+      {"resource": "analytics-worker-03", "currentSize": "c5.2xlarge", "recommendedSize": "c5.xlarge", "monthlySavings": 3800, "provider": "AWS"},
+      {"resource": "staging-db-replica", "currentSize": "db.r5.xlarge", "recommendedSize": "db.r5.large", "monthlySavings": 2900, "provider": "AWS"},
+      {"resource": "dev-cache-cluster", "currentSize": "r6g.xlarge", "recommendedSize": "r6g.large", "monthlySavings": 2400, "provider": "AWS"},
+      {"resource": "log-processor-02", "currentSize": "m5.large", "recommendedSize": "t3.large", "monthlySavings": 1800, "provider": "AWS"}
+    ]
+  }
+}

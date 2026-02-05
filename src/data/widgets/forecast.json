@@ -1,0 +1,46 @@
+{
+  "historical": [
+    {"date": "2025-03-01", "value": 1900000},
+    {"date": "2025-04-01", "value": 1950000},
+    {"date": "2025-05-01", "value": 2000000},
+    {"date": "2025-06-01", "value": 2050000},
+    {"date": "2025-07-01", "value": 2080000},
+    {"date": "2025-08-01", "value": 2100000},
+    {"date": "2025-09-01", "value": 2150000},
+    {"date": "2025-10-01", "value": 2200000},
+    {"date": "2025-11-01", "value": 2280000},
+    {"date": "2025-12-01", "value": 2310000},
+    {"date": "2026-01-01", "value": 2380000},
+    {"date": "2026-02-01", "value": 2400000}
+  ],
+  "forecast": [
+    {"date": "2026-03-01", "value": 2450000, "lower": 2350000, "upper": 2550000},
+    {"date": "2026-04-01", "value": 2500000, "lower": 2370000, "upper": 2630000},
+    {"date": "2026-05-01", "value": 2540000, "lower": 2380000, "upper": 2700000},
+    {"date": "2026-06-01", "value": 2580000, "lower": 2390000, "upper": 2770000},
+    {"date": "2026-07-01", "value": 2620000, "lower": 2400000, "upper": 2840000},
+    {"date": "2026-08-01", "value": 2660000, "lower": 2410000, "upper": 2910000}
+  ],
+  "budgetLine": 2500000,
+  "sixMonthTotal": 15350000,
+  "vsLastPeriod": {"amount": 2400000, "percentage": 28},
+  "vsBudget": {"amount": -350000, "percentage": -2},
+  "insight": "Projected to exceed budget starting April 2026",
+  "teamForecast": {
+    "historical": [
+      {"date": "2025-09-01", "value": 130000},
+      {"date": "2025-10-01", "value": 132000},
+      {"date": "2025-11-01", "value": 135000},
+      {"date": "2025-12-01", "value": 138000},
+      {"date": "2026-01-01", "value": 140000},
+      {"date": "2026-02-01", "value": 142000}
+    ],
+    "forecast": [
+      {"date": "2026-03-01", "value": 145000},
+      {"date": "2026-04-01", "value": 147000},
+      {"date": "2026-05-01", "value": 150000}
+    ],
+    "budgetLine": 155000,
+    "insight": "On track to stay within team budget"
+  }
+}

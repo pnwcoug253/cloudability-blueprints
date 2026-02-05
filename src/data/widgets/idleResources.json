@@ -1,0 +1,13 @@
+{
+  "totalWaste": 3200,
+  "resources": [
+    {"name": "dev-cache-02", "type": "ElastiCache", "region": "us-east-1", "lastActive": "14 days ago", "monthlyCost": 580, "provider": "AWS"},
+    {"name": "staging-lb-old", "type": "Load Balancer", "region": "us-west-2", "lastActive": "30 days ago", "monthlyCost": 450, "provider": "AWS"},
+    {"name": "test-vm-jsmith", "type": "Virtual Machine", "region": "eastus", "lastActive": "21 days ago", "monthlyCost": 420, "provider": "Azure"},
+    {"name": "unused-ip-prod-3", "type": "Elastic IP", "region": "eu-west-1", "lastActive": "Never attached", "monthlyCost": 380, "provider": "AWS"},
+    {"name": "old-snapshot-vol", "type": "EBS Snapshot", "region": "us-east-1", "lastActive": "60 days ago", "monthlyCost": 350, "provider": "AWS"},
+    {"name": "dev-db-migration", "type": "RDS Instance", "region": "us-east-1", "lastActive": "45 days ago", "monthlyCost": 520, "provider": "AWS"},
+    {"name": "qa-disk-backup", "type": "Managed Disk", "region": "westus2", "lastActive": "35 days ago", "monthlyCost": 280, "provider": "Azure"},
+    {"name": "tmp-storage-bucket", "type": "Cloud Storage", "region": "us-central1", "lastActive": "25 days ago", "monthlyCost": 220, "provider": "GCP"}
+  ]
+}

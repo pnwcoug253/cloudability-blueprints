@@ -1,0 +1,11 @@
+{
+  "completionRate": 78,
+  "items": [
+    {"id": "setup-1", "label": "Cloud credentials connected", "detail": "3/3 providers", "complete": true},
+    {"id": "setup-2", "label": "Business mappings configured", "detail": "5 mappings", "complete": true},
+    {"id": "setup-3", "label": "Views created", "detail": "8 views", "complete": true},
+    {"id": "setup-4", "label": "User groups configured", "detail": "0 of 3 planned", "complete": false},
+    {"id": "setup-5", "label": "Blueprints assigned to all roles", "detail": "4 of 6", "complete": false},
+    {"id": "setup-6", "label": "Budget thresholds configured", "detail": "Not started", "complete": false}
+  ]
+}

@@ -1,0 +1,145 @@
+[
+  {
+    "id": "user-001",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@acmecorp.com",
+    "persona": "admin",
+    "view": "all-accounts",
+    "role": "Platform Administrator",
+    "lastLogin": "2026-02-05T09:15:00Z",
+    "loginCount": 142,
+    "status": "active"
+  },
+  {
+    "id": "user-002",
+    "name": "Marcus Johnson",
+    "email": "marcus.johnson@acmecorp.com",
+    "persona": "admin",
+    "view": "all-accounts",
+    "role": "Platform Administrator",
+    "lastLogin": "2026-02-04T14:22:00Z",
+    "loginCount": 98,
+    "status": "active"
+  },
+  {
+    "id": "user-003",
+    "name": "Emily Rodriguez",
+    "email": "emily.rodriguez@acmecorp.com",
+    "persona": "finops",
+    "view": "aws-production",
+    "role": "FinOps Lead",
+    "lastLogin": "2026-02-05T08:45:00Z",
+    "loginCount": 215,
+    "status": "active"
+  },
+  {
+    "id": "user-004",
+    "name": "David Kim",
+    "email": "david.kim@acmecorp.com",
+    "persona": "finops",
+    "view": "aws-production",
+    "role": "FinOps Analyst",
+    "lastLogin": "2026-02-05T10:30:00Z",
+    "loginCount": 178,
+    "status": "active"
+  },
+  {
+    "id": "user-005",
+    "name": "Priya Patel",
+    "email": "priya.patel@acmecorp.com",
+    "persona": "finops",
+    "view": "azure-dev",
+    "role": "Cloud Financial Analyst",
+    "lastLogin": "2026-02-04T16:10:00Z",
+    "loginCount": 134,
+    "status": "active"
+  },
+  {
+    "id": "user-006",
+    "name": "James O'Brien",
+    "email": "james.obrien@acmecorp.com",
+    "persona": "devops",
+    "view": "aws-production",
+    "role": "Senior DevOps Engineer",
+    "lastLogin": "2026-02-05T07:55:00Z",
+    "loginCount": 89,
+    "status": "active"
+  },
+  {
+    "id": "user-007",
+    "name": "Aisha Williams",
+    "email": "aisha.williams@acmecorp.com",
+    "persona": "devops",
+    "view": "azure-dev",
+    "role": "Platform Engineer",
+    "lastLogin": "2026-02-04T11:20:00Z",
+    "loginCount": 67,
+    "status": "active"
+  },
+  {
+    "id": "user-008",
+    "name": "Carlos Mendez",
+    "email": "carlos.mendez@acmecorp.com",
+    "persona": "devops",
+    "view": "aws-production",
+    "role": "SRE Lead",
+    "lastLogin": "2026-02-03T15:40:00Z",
+    "loginCount": 112,
+    "status": "active"
+  },
+  {
+    "id": "user-009",
+    "name": "Rachel Thompson",
+    "email": "rachel.thompson@acmecorp.com",
+    "persona": "finance",
+    "view": "finance-reporting",
+    "role": "VP of Finance",
+    "lastLogin": "2026-02-04T09:00:00Z",
+    "loginCount": 45,
+    "status": "active"
+  },
+  {
+    "id": "user-010",
+    "name": "Michael Novak",
+    "email": "michael.novak@acmecorp.com",
+    "persona": "finance",
+    "view": "finance-reporting",
+    "role": "Financial Controller",
+    "lastLogin": "2026-02-03T13:30:00Z",
+    "loginCount": 62,
+    "status": "active"
+  },
+  {
+    "id": "user-011",
+    "name": "Lisa Chang",
+    "email": "lisa.chang@acmecorp.com",
+    "persona": "devops",
+    "view": "azure-dev",
+    "role": "Cloud Architect",
+    "lastLogin": "2026-01-28T10:15:00Z",
+    "loginCount": 34,
+    "status": "inactive"
+  },
+  {
+    "id": "user-012",
+    "name": "Tom Hartley",
+    "email": "tom.hartley@acmecorp.com",
+    "persona": "finops",
+    "view": "aws-production",
+    "role": "FinOps Analyst",
+    "lastLogin": "2026-02-05T11:05:00Z",
+    "loginCount": 156,
+    "status": "active"
+  },
+  {
+    "id": "user-013",
+    "name": "Natasha Volkov",
+    "email": "natasha.volkov@acmecorp.com",
+    "persona": "devops",
+    "view": "aws-production",
+    "role": "Infrastructure Engineer",
+    "lastLogin": "2026-02-04T08:30:00Z",
+    "loginCount": 78,
+    "status": "active"
+  }
+]

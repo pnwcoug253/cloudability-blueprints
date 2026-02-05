@@ -1,0 +1,14 @@
+{
+  "totalActive": 5,
+  "anomalies": [
+    {"id": "anom-1", "severity": "critical", "service": "AWS Lambda", "account": "prod-account-01", "region": "us-east-1", "impact": 12000, "percentChange": 538, "timeframe": "2 hours ago", "status": "new"},
+    {"id": "anom-2", "severity": "warning", "service": "Azure Storage", "account": "prod-subscription", "region": "eastus", "impact": 3400, "percentChange": 89, "timeframe": "6 hours ago", "status": "new"},
+    {"id": "anom-3", "severity": "warning", "service": "GCP BigQuery", "account": "analytics-project", "region": "us-central1", "impact": 2100, "percentChange": 45, "timeframe": "1 day ago", "status": "investigating"},
+    {"id": "anom-4", "severity": "warning", "service": "AWS EC2", "account": "dev-account-02", "region": "eu-west-1", "impact": 1800, "percentChange": 32, "timeframe": "1 day ago", "status": "investigating"},
+    {"id": "anom-5", "severity": "info", "service": "Azure Cosmos DB", "account": "staging-sub", "region": "westus2", "impact": 950, "percentChange": 22, "timeframe": "2 days ago", "status": "acknowledged"}
+  ],
+  "teamAnomalies": [
+    {"id": "anom-t1", "severity": "critical", "service": "AWS Lambda", "resource": "api-handler-prod", "impact": 800, "percentChange": 245, "timeframe": "2 hours ago"},
+    {"id": "anom-t2", "severity": "warning", "service": "AWS EBS", "resource": "data-vol-staging", "impact": 200, "percentChange": 67, "timeframe": "1 day ago"}
+  ]
+}
