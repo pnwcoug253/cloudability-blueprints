@@ -12,6 +12,16 @@
 .app-content {
   padding: 1rem 2rem;
   margin-top: 3rem; // Header height
+  transition: margin-left 0.11s cubic-bezier(0.2, 0, 1, 0.9);
+}
+
+// Offset content for the SideNav rail (collapsed = 48px, expanded = 256px)
+.app-content--nav-rail {
+  margin-left: 3rem;
+}
+
+.app-content--nav-expanded {
+  margin-left: 16rem;
 }
 
 // Widget card styles

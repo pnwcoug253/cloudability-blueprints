@@ -152,7 +152,11 @@ function AppShell({ children }) {
                 </SideNav>
               )}
             </Header>
-            <Content className="app-content">{children}</Content>
+            <Content
+              className={`app-content${!isProfiler && !isLanding ? (isSideNavExpanded ? ' app-content--nav-expanded' : ' app-content--nav-rail') : ''}`}
+            >
+              {children}
+            </Content>
           </>
         )}
       />
